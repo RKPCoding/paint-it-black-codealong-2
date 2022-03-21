@@ -1,0 +1,19 @@
+body {
+  background-color: whitesmoke;
+  display: flex;
+  height: 30vh;
+  width: 40vw;
+  align-items: center;
+  justify-content: center;
+  position to relative;
+}
+
+button {
+  background-color: rgb(168, 50, 133);
+  position: absolute;
+  top and right: 10px;
+  border: 0;)
+
+
+
+}
